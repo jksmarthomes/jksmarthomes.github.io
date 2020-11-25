@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b90a6bb3.chunk.css",
+    "main.js": "/static/js/main.8f8f830e.chunk.js",
+    "main.js.map": "/static/js/main.8f8f830e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.522e5c97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.522e5c97.js.map",
+    "static/js/2.155ffe94.chunk.js": "/static/js/2.155ffe94.chunk.js",
+    "static/js/2.155ffe94.chunk.js.map": "/static/js/2.155ffe94.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bbac3ad2680da64c9c49e353fc12ebb3.js": "/precache-manifest.bbac3ad2680da64c9c49e353fc12ebb3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b90a6bb3.chunk.css.map": "/static/css/main.b90a6bb3.chunk.css.map",
+    "static/js/2.155ffe94.chunk.js.LICENSE.txt": "/static/js/2.155ffe94.chunk.js.LICENSE.txt",
+    "static/media/apptr.png": "/static/media/apptr.140006b2.png",
+    "static/media/board.png": "/static/media/board.620fe809.png",
+    "static/media/final.jpg": "/static/media/final.263380d5.jpg",
+    "static/media/jkhardware.png": "/static/media/jkhardware.ab7f1721.png",
+    "static/media/labelled.png": "/static/media/labelled.9e887121.png",
+    "static/media/navlogo.png": "/static/media/navlogo.a7c320d7.png",
+    "static/media/productimage.jpg": "/static/media/productimage.7c39a55f.jpg",
+    "static/media/squareboard.png": "/static/media/squareboard.d226649b.png",
+    "static/media/tsf.jpg": "/static/media/tsf.7fde9f0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.522e5c97.js",
+    "static/js/2.155ffe94.chunk.js",
+    "static/css/main.b90a6bb3.chunk.css",
+    "static/js/main.8f8f830e.chunk.js"
+  ]
+}
